@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    position: relative;
+    background-color: #343a40;
+    padding: 16px;
+}
+
+.navbar *{
+    display: inline-block;
+}
+
+.navbar a{
+    text-decoration: none;
+}
+
+.navbar .title{
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+.navbar .list {
+    list-style: none;
+}
+
+.navbar .list .item{
+    display: inline-block;
+    padding: 8px;
+}
+
+.navbar .list .item .link{
+    color: #ffffff80;
+}
+
+.navbar .list .item .link:hover{
+    color: white;
+}
+
+.navbar .list .item.active .link{
+    color: white;
+}
