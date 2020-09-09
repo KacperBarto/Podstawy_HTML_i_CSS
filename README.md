@@ -4,7 +4,7 @@ Przygotowanie podstawowej struktury strony internetowej.
 Strona internetowa z uzupełnioną treścią.
 # Zadanie 3 [HTML + CSS]:
 Pasek nawigacyjny.
-# Zadanie 4 [HTML + CSS] [opcjonalnie]:
+# Zadanie 4 [HTML + CSS]:
 Wykorzystanie darmowego frameworku CSS.
 # Zadanie 5 [HTML + CSS]:
 Stylowanie stworzonej strony internetowej z uzupełnioną treścią.
